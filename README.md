@@ -14,7 +14,7 @@ In this lab we will see how a VPN masks your ip address giving you safer tunneli
 
 - <b>Windows 10 Enterprise Gen 2 (22H2) </b> 
 
-<h2>Create a Vitual Machine:</h2>
+<h2>Create a Vitual Machine in Azure and Connecting Via Remote Desktop:</h2>
 
 <p align="center">
 Browse to https://whatismyipaddress.com/ FROM WITHIN YOUR OWN MACHINE and take note of this in a text file: <br/>
@@ -54,7 +54,11 @@ Copy your VM's public ip address, log into the VM with Remote Desktop. On your V
 <br />
 <br />
  <img width="1916" height="1072" alt="image" src="https://github.com/user-attachments/assets/ab040c81-05f3-4771-a7c7-6a4736bb004f" />
-
+<br />
+<br />
+ <br />
+<br />
+<h2>Sign up for ProtonVPN and Test the VPN Connection:</h2>
 On your actual computer, sign up for the free version of Proton VPN https://account.protonvpn.com/signup?plan=free&language=en:  <br/>
 <img width="951" height="931" alt="image" src="https://github.com/user-attachments/assets/f3644834-93bc-4071-bb60-4a8d55e19ab3" />
 <br />
